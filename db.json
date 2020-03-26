@@ -4,5 +4,8 @@
       study:'BUW',
       assigment:'Secret',
       somethingelse:'I think he can do this'
-    }]
+    }],
+  "profile": {
+    "name": "typicode"
+  }
 }
