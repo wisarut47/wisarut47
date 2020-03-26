@@ -1,11 +1,8 @@
 {
-  "thesis": [
-    {
+  "thesis": [{
       name:'Wisarut',
       study:'BUW',
       assigment:'Secret',
       somethingelse:'I think he can do this'
-    }
-  
-  ]
+    }]
 }
